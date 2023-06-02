@@ -1,0 +1,56 @@
+* {
+    margin: 0px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h2 {
+    color: red;
+    padding-top: 60px;
+
+
+}
+
+.logo {
+    background-color: blue;
+    background-size: 500px;
+
+}
+
+span {
+    color: #017143;
+    font-size: 60px;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+button {
+    background: #017143;
+    color: white;
+    border-radius: 40px;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    margin: 50px;
+}
+
+.copos {
+    transform: translatey(-25px);
+
+
+}
+
+.paragrafo {
+    font-weight: bold;
+
+}
+
+.caixa-copos {
+
+    border: solid 2px red;
+    width: 800px;
+    margin-left: 200;
+
+}
