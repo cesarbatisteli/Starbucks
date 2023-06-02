@@ -15,7 +15,10 @@ h2 {
 
 .logo {
     background-color: blue;
-    background-size: 500px;
+    background-color: white;
+    width: 100px;
+
+    
 
 }
 
